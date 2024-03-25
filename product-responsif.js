@@ -1,27 +1,27 @@
 let data = [
     {
-        foto: "E:/Tugas 8/asetss/download.jfif",
+        foto: "images/download.jfif",
         namaProduk: "kaos oblong",
         desc: "bahanya tebel dan lembut",
         harga: "Rp. 50.000",
         toko: "Zin Store",
     },
     {
-        foto: "E:/Tugas 8/asetss/download (1).jfif",
+        foto: "images/download (1).jfif",
         namaProduk: "Baju rajut",
         desc: "bahannya adem",
         harga: "Rp. 125.000",
         toko: "Zin Store",
     },
     {
-        foto: "E:/Tugas 8/asetss/images.jfif",
+        foto: "images/images.jfif",
         namaProduk: "kaos oblong polos",
         desc: "bahannya agak tebal",
         harga: "50.000",
         toko: "Zin Store",
     },
     {
-        foto: "E:/Tugas 8/asetss/download (3).jfif",
+        foto: "images/download (3).jfif",
         namaProduk: "dress korea",
         desc: "bahanya tipis",
         harga: "Rp. 150.000",
